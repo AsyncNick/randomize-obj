@@ -1,0 +1,27 @@
+{
+  "name": "randomize-obj",
+  "version": "1.0.0",
+  "description": "Randomize an Object or Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivalnick/randomize-obj.git"
+  },
+  "keywords": [
+    "random",
+    "randomize",
+    "obj",
+    "object",
+    "array",
+    "arr"
+  ],
+  "author": "Nicky Laczko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rivalnick/randomize-obj/issues"
+  },
+  "homepage": "https://github.com/rivalnick/randomize-obj#readme"
+}
